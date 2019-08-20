@@ -1,0 +1,247 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a13c89b5d2e14454aaa322f636646bb, type: 3}
+  m_Name: LaserParticlesAnim
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 2800000, guid: a9b6d47df9cc24d2aa7a7746695ed7fd, type: 3}
+    - {fileID: -8086660902626045846, guid: a9b6d47df9cc24d2aa7a7746695ed7fd, type: 3}
+    - {fileID: -929859820314523824, guid: a9b6d47df9cc24d2aa7a7746695ed7fd, type: 3}
+    - {fileID: 4202009883587501699, guid: a9b6d47df9cc24d2aa7a7746695ed7fd, type: 3}
+    - {fileID: -7820365385234494201, guid: a9b6d47df9cc24d2aa7a7746695ed7fd, type: 3}
+    - {fileID: -4392331716534213801, guid: a9b6d47df9cc24d2aa7a7746695ed7fd, type: 3}
+    - {fileID: -3591431931674004274, guid: a9b6d47df9cc24d2aa7a7746695ed7fd, type: 3}
+    - {fileID: -1426515792425066431, guid: a9b6d47df9cc24d2aa7a7746695ed7fd, type: 3}
+    - {fileID: 243912703719079975, guid: a9b6d47df9cc24d2aa7a7746695ed7fd, type: 3}
+    - {fileID: 6882900148418293836, guid: a9b6d47df9cc24d2aa7a7746695ed7fd, type: 3}
+    - {fileID: 1369183517787640908, guid: a9b6d47df9cc24d2aa7a7746695ed7fd, type: 3}
+    - {fileID: -8996159764326316020, guid: a9b6d47df9cc24d2aa7a7746695ed7fd, type: 3}
+    - {fileID: -2421350404321663156, guid: a9b6d47df9cc24d2aa7a7746695ed7fd, type: 3}
+    - {fileID: 2866328404400960510, guid: a9b6d47df9cc24d2aa7a7746695ed7fd, type: 3}
+    - {fileID: -6150461423103850210, guid: a9b6d47df9cc24d2aa7a7746695ed7fd, type: 3}
+    - {fileID: -8892455605786915094, guid: a9b6d47df9cc24d2aa7a7746695ed7fd, type: 3}
+    - {fileID: -2663530579602388316, guid: a9b6d47df9cc24d2aa7a7746695ed7fd, type: 3}
+    - {fileID: 6567390075659200301, guid: a9b6d47df9cc24d2aa7a7746695ed7fd, type: 3}
+    - {fileID: -2268115142493221306, guid: a9b6d47df9cc24d2aa7a7746695ed7fd, type: 3}
+    - {fileID: -9133101698480160734, guid: a9b6d47df9cc24d2aa7a7746695ed7fd, type: 3}
+    - {fileID: 8557428392158828111, guid: a9b6d47df9cc24d2aa7a7746695ed7fd, type: 3}
+    - {fileID: -5087013028872698092, guid: a9b6d47df9cc24d2aa7a7746695ed7fd, type: 3}
+    - {fileID: 7713178386702148098, guid: a9b6d47df9cc24d2aa7a7746695ed7fd, type: 3}
+    - {fileID: 1613001093395345525, guid: a9b6d47df9cc24d2aa7a7746695ed7fd, type: 3}
+    - {fileID: -3456059104795961269, guid: a9b6d47df9cc24d2aa7a7746695ed7fd, type: 3}
+    - {fileID: -7701618275809374798, guid: a9b6d47df9cc24d2aa7a7746695ed7fd, type: 3}
+    - {fileID: 6152253216612482267, guid: a9b6d47df9cc24d2aa7a7746695ed7fd, type: 3}
+    - {fileID: -3674662838513368254, guid: a9b6d47df9cc24d2aa7a7746695ed7fd, type: 3}
+    - {fileID: -1872808215091910717, guid: a9b6d47df9cc24d2aa7a7746695ed7fd, type: 3}
+    - {fileID: -6071164061917289096, guid: a9b6d47df9cc24d2aa7a7746695ed7fd, type: 3}
+    - {fileID: 3818873119215771707, guid: a9b6d47df9cc24d2aa7a7746695ed7fd, type: 3}
+    - {fileID: -5014287576356701176, guid: a9b6d47df9cc24d2aa7a7746695ed7fd, type: 3}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: Textures
+      Entry: 7
+      Data: 0|System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[UnityEngine.Texture2D,
+        UnityEngine.CoreModule]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 1|System.Collections.Generic.GenericEqualityComparer`1[[System.String,
+        mscorlib]], mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: on
+    - Name: $v
+      Entry: 10
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: Sprites
+      Entry: 7
+      Data: 2|System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Collections.Generic.List`1[[UnityEngine.Sprite,
+        UnityEngine.CoreModule]], mscorlib]], mscorlib
+    - Name: comparer
+      Entry: 9
+      Data: 1
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: on
+    - Name: $v
+      Entry: 7
+      Data: 3|System.Collections.Generic.List`1[[UnityEngine.Sprite, UnityEngine.CoreModule]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 31
+    - Name: 
+      Entry: 10
+      Data: 1
+    - Name: 
+      Entry: 10
+      Data: 2
+    - Name: 
+      Entry: 10
+      Data: 3
+    - Name: 
+      Entry: 10
+      Data: 4
+    - Name: 
+      Entry: 10
+      Data: 5
+    - Name: 
+      Entry: 10
+      Data: 6
+    - Name: 
+      Entry: 10
+      Data: 7
+    - Name: 
+      Entry: 10
+      Data: 8
+    - Name: 
+      Entry: 10
+      Data: 9
+    - Name: 
+      Entry: 10
+      Data: 10
+    - Name: 
+      Entry: 10
+      Data: 11
+    - Name: 
+      Entry: 10
+      Data: 12
+    - Name: 
+      Entry: 10
+      Data: 13
+    - Name: 
+      Entry: 10
+      Data: 14
+    - Name: 
+      Entry: 10
+      Data: 15
+    - Name: 
+      Entry: 10
+      Data: 16
+    - Name: 
+      Entry: 10
+      Data: 17
+    - Name: 
+      Entry: 10
+      Data: 18
+    - Name: 
+      Entry: 10
+      Data: 19
+    - Name: 
+      Entry: 10
+      Data: 20
+    - Name: 
+      Entry: 10
+      Data: 21
+    - Name: 
+      Entry: 10
+      Data: 22
+    - Name: 
+      Entry: 10
+      Data: 23
+    - Name: 
+      Entry: 10
+      Data: 24
+    - Name: 
+      Entry: 10
+      Data: 25
+    - Name: 
+      Entry: 10
+      Data: 26
+    - Name: 
+      Entry: 10
+      Data: 27
+    - Name: 
+      Entry: 10
+      Data: 28
+    - Name: 
+      Entry: 10
+      Data: 29
+    - Name: 
+      Entry: 10
+      Data: 30
+    - Name: 
+      Entry: 10
+      Data: 31
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: FramesPerSecond
+      Entry: 7
+      Data: 4|System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Int32,
+        mscorlib]], mscorlib
+    - Name: comparer
+      Entry: 9
+      Data: 1
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: on
+    - Name: $v
+      Entry: 3
+      Data: 60
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  DefaultAnimation: on
